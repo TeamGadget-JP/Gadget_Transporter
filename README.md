@@ -46,7 +46,7 @@ This tool is completely free to use. However, if you find it helpful for your wo
 
 ---
 
-## 💡 Pro Tips
+## 💡 Tips
 
 * **3D-Coat Retopo Scale:** When sending a model to 3D-Coat's Retopo room, you might experience scale mismatches. A recommended workflow is to set the **Export Scale to `100`** when sending, and set the **Import Scale to `0.01`** (1/100) when using GetBack. This ensures the scale remains perfectly consistent when brought back to Unity.
 
@@ -106,7 +106,7 @@ For full details, please read the [LICENSE](./LICENSE) file.
 
 ---
 
-## 💡 Pro Tips（便利なTips）
+## 💡 Tips
 
 * **3D-Coat リトポルームのスケール設定:** 3D-CoatのRetopoルームへモデルを送る際、環境によってはスケールが合わなくなることがあります。これを防ぐためのオススメの設定は、送信時の **Export Scale を `100`** にし、戻す時の **Import Scale を `0.01`**（1/100）にしてGetBackを行うことです。これにより、Unity上で元のスケールにぴったり一致させることができます。
 
