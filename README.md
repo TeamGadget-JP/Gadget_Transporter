@@ -9,7 +9,7 @@ Welcome to "Gadget Transporter"! This is an ultimate bridge and asset-fetching (
 ## 🙏 Support the Project!
 
 This tool is completely free to use. However, if you find it helpful for your workflow, I would greatly appreciate it if you could **Subscribe to my YouTube channel and Like the videos!** Your support is my greatest motivation to continue developing tools like this! 
-▶️ https://youtu.be/kNBWSCf2clw
+▶️ https://www.youtube.com/channel/UCj9OYwzMAIgYAeVkTV4wczw
 
 ---
 
@@ -69,7 +69,7 @@ For full details, please read the [LICENSE](./LICENSE) file.
 ## 🙏 開発者からのお願い
 
 本ツールは完全無料でお使いいただけます。もし皆様の制作のお役に立てましたら、ぜひ**YouTubeチャンネルの登録と高評価**をお願いいたします！ 皆様からの応援が、今後の開発の最大のモチベーションになります！ 
-▶️ https://youtu.be/kNBWSCf2clw
+▶️ https://www.youtube.com/channel/UCj9OYwzMAIgYAeVkTV4wczw
 
 ---
 
