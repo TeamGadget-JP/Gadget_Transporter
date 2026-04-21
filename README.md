@@ -32,7 +32,7 @@ This tool is completely free to use. However, if you find it helpful for your wo
 1. In Unity, open the tool via the top menu: `Gadget > Gadget Transporter`.
 2. Expand the **⚙️ Path Settings** foldout.
 3. Assign the executable paths for `ZBrush.exe` and `3D-Coat.exe`.
-4. Set the **3D-Coat Exchange** folder (Usually `C:\Users\Public\Documents\Applinks\3D-Coat\Exchange`).
+4. Set the **3D-Coat Exchange** folder (Usually `C:\Users\Public\Documents\Applinks\3D-Coat\Exchange`)This can vary depending on your individual PC environment, but it definitely exists, so please try to find it..
 5. Set the **GetBack Source** folder (The folder where you export your finished models from external apps).
 
 ### 2. Exporting to External Apps
@@ -92,7 +92,7 @@ For full details, please read the [LICENSE](./LICENSE) file.
 1. Unity上部メニューから `Gadget > Gadget Transporter` を開きます。
 2. **⚙️ Path Settings** を展開します。
 3. `ZBrush.exe` と `3D-Coat.exe` の実行ファイルパスを指定します。
-4. **3D-Coat Exchange** フォルダを指定します（通常は `C:\Users\Public\Documents\Applinks\3D-Coat\Exchange`）。
+4. **3D-Coat Exchange** フォルダを指定します（通常は `C:\Users\Public\Documents\Applinks\3D-Coat\Exchange`）これ、個々のPC環境で様々なパターンがあります、しかし必ずあるので探し当ててください。
 5. **GetBack Source** フォルダを指定します（外部アプリから完成モデルをエクスポートする先のフォルダ）。
 
 ### 2. 外部アプリへの送信
