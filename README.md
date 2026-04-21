@@ -1,6 +1,6 @@
 # Gadget Transporter
 
-Welcome to "Gadget Transporter"! This is an ultimate bridge and asset-fetching (GetBack) tool designed to seamlessly connect Unity Editor with ZBrush and 3D-Coat.
+Welcome to "Gadget Transporter"! This is an bridge and asset-fetching (GetBack) tool designed to seamlessly connect Unity Editor with ZBrush and 3D-Coat.
 
 ## ⚠️ Important Notice
 
@@ -60,7 +60,7 @@ For full details, please read the [LICENSE](./LICENSE) file.
 
 # Gadget Transporter (日本語版)
 
-「Gadget Transporter」へようこそ！このツールは、UnityエディタとZBrush、および3D-Coatをシームレスに連携させるための究極のブリッジ＆アセット回収（GetBack）ツールです。
+「Gadget Transporter」へようこそ！このツールは、UnityエディタとZBrush、および3D-Coatをシームレスに連携させるためのブリッジ＆アセット回収（GetBack）ツールです。
 
 ## ⚠️ 重要な注意事項（必ずお読みください）
 
