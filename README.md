@@ -24,6 +24,7 @@ This tool is completely free to use. However, if you find it helpful for your wo
   * **Auto-Processing:** Automatically imports the model, creates a material, assigns textures (Color, Normal, Metallic, Emission), and builds a Prefab.
   * **Smart Cleanup:** Automatically moves processed source files into a `_History` folder to keep your workspace clean.
 
+  * **Tested versions: ZBrush 2022, 3D-Coat 2025.17
 ---
 
 ## 🛠️ Setup & How to Use
@@ -83,6 +84,9 @@ For full details, please read the [LICENSE](./LICENSE) file.
   * **ワンクリック回収:** 指定したフォルダをスキャンし、出力されたOBJ/FBXと関連テクスチャを自動検知します。
   * **自動セットアップ:** モデルのインポート、マテリアルの作成、テクスチャの自動割り当て（Color, Normal, Metallic, Emission等）、そしてPrefabの生成までを全自動で行います。
   * **スマートクリーンアップ:** 処理が完了した元ファイルは自動的に `_History` フォルダへ移動し、作業フォルダを常にクリーンに保ちます。
+
+  * **動作確認バージョンZBrush2022 3D-Coat2025.17
+
 
 ---
 
